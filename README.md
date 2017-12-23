@@ -12,17 +12,17 @@ CRUD utilizando conceitos do React, sem a utilização do Redux.
 
 ## Utilização
 
-Subindo servidor node.
+:point_right:Subindo servidor node.
 
 1.  cd /backend
 2.  npm install
 3.  npm run dev
 
-Subindo o mongodb
+:point_right:Subindo o mongodb
 
 *   sudo mongod
 
-Subindo aplicação do React
+:point_right:Subindo aplicação do React
 
 1.  cd /frontend
 2.  npm install
